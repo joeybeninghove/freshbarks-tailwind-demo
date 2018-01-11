@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-rails",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^3.2.0",
+    "activestorage": "^0.1.1",
+    "coffeescript": "1.12.7",
+    "rails-ujs": "^5.1.4",
+    "turbolinks": "^5.1.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^0.4.0",
+    "webpack-dev-server": "^2.10.1"
+  }
+}
